@@ -3,8 +3,8 @@ void	ft_putchar(char c);
 
 int	ft_simple_atoi(char *str)
 {
-	int	number;
-	int	multiplier;
+	long	number;
+	int		multiplier;
 
 	number = 0;
 	multiplier = 1;
